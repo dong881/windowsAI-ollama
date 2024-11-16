@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Background -->
+  <circle cx="32" cy="32" r="30" fill="#4A90E2"/>
+  
+  <!-- Text elements representing translation -->
+  <g fill="#FFFFFF">
+    <!-- Left text block -->
+    <rect x="12" y="20" width="16" height="4" rx="2"/>
+    <rect x="12" y="26" width="12" height="4" rx="2"/>
+    <rect x="12" y="32" width="14" height="4" rx="2"/>
+    
+    <!-- Right text block (slightly offset) -->
+    <rect x="36" y="22" width="16" height="4" rx="2"/>
+    <rect x="36" y="28" width="12" height="4" rx="2"/>
+    <rect x="36" y="34" width="14" height="4" rx="2"/>
+  </g>
+  
+  <!-- Connection arrows -->
+  <path d="M28 40 L36 40 L32 44 Z" fill="#FFFFFF"/>
+  <path d="M36 24 L28 24 L32 20 Z" fill="#FFFFFF"/>
+</svg>
